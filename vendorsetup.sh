@@ -14,4 +14,6 @@
 # limitations under the License.
 #
 
-add_lunch_combo validus_potter-userdebug
+add_lunch_combo bootleg_potter-eng
+add_lunch_combo bootleg_potter-user
+add_lunch_combo bootleg_potter-userdebug

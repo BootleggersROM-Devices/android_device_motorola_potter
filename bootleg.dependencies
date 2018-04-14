@@ -1,9 +1,9 @@
 [
   {
     "remote": "github",
-    "repository":  "GZR-Kernels/Optimus_Drunk_Potter",
+    "repository":  "faiyazsheth/noobkernel",
     "target_path": "kernel/motorola/msm8953",
-    "branch": "8.1-64"
+    "branch": "Oreo64"
   },
   {
     "remote": "github",
