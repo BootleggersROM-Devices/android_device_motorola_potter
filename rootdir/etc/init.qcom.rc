@@ -597,7 +597,7 @@ service vendor.imsrcsservice /system/vendor/bin/imsrcsd
     writepid /dev/cpuset/system-background/tasks
 
 on property:vendor.ims.DATA_DAEMON_STATUS=1
-    restart vendor.ims_rtp_daemon
+    start vendor.ims_rtp_daemon
 
 service vendor.rmt_storage /system/vendor/bin/rmt_storage
     class core
